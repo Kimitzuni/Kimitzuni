@@ -1,16 +1,29 @@
 ### Hi there 👋
+Hi, I'm Rebecca (or Kimitzuni). I'm a self-taught software developer from Wales, currently living in England, studying IT at college.
 
-<!--
-**Kimitzuni/kimitzuni** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### Programming Languages
+![C++](https://img.shields.io/badge/C%2B%2B-blue?style=for-the-badge&logo=c%2B%2B)
+![C](https://img.shields.io/badge/C-blue?style=for-the-badge&logo=c)
+![HTML/CSS](https://img.shields.io/badge/HTML/CSS-orange?style=for-the-badge&logo=html5)
+![Rust](https://img.shields.io/badge/Rust-red?style=for-the-badge&logo=rust)
+![C#](https://img.shields.io/badge/C%23-green?style=for-the-badge&logo=csharp)
+![PHP](https://img.shields.io/badge/PHP-purple?style=for-the-badge&logo=php)
+![JavaScript](https://img.shields.io/badge/JavaScript-red?style=for-the-badge&logo=javascript)
+![POSIX/Bash](https://img.shields.io/badge/POSIX/Bash-darkgreen?style=for-the-badge&logo=gnubash)
+![SQL/MySQL](https://img.shields.io/badge/SQL/MySQL-darkblue?style=for-the-badge&logo=mysql)
+![Ruby](https://img.shields.io/badge/Ruby-darkred?style=for-the-badge&logo=ruby)
+![Python](https://img.shields.io/badge/Python-yellow?style=for-the-badge&logo=python)
 
-Here are some ideas to get you started:
+#### Socials and Stuff
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Mastodon: @kimitzuni@tech.lgbt](https://img.shields.io/badge/@kimitzuni@tech.lgbt-purple?style=for-the-badge&logo=mastodon)](https://tech.lgbt/@Kimitzuni)
+![Discord: Kimitzuni#4390](https://img.shields.io/badge/Kimitzuni%234390-darkblue?style=for-the-badge&logo=discord)
+[![Twitter: @Kimitzuni](https://img.shields.io/badge/@Kimitzuni-darkblue?style=for-the-badge&logo=twitter)](https://twitter.com/Kimitzuni)
+[![YouTube: @Kimitzuni](https://img.shields.io/badge/@Kimitzuni-darkred?style=for-the-badge&logo=youtube)](https://youtube.com/@Kimitzuni)
+
+
+---
+## Projects
+
+[![win16-transflag](https://github-readme-stats.vercel.app/api/pin/?username=kimitzuni&repo=win16-transflag&theme=gruvbox)](https://github.com/Kimitzuni/win16-transflag)
+[![kernel-roulette](https://github-readme-stats.vercel.app/api/pin/?username=kimitzuni&repo=kernel-roulette&theme=gruvbox)](https://github.com/Kimitzuni/kernel-roulette)
