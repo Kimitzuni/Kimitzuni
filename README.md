@@ -16,8 +16,8 @@ Hi, I'm Rebecca (or Kimitzuni). I'm a self-taught software developer from Wales,
 
 #### Socials and Stuff
 
-[![Mastodon: @kimitzuni@tech.lgbt](https://img.shields.io/badge/@kimitzuni@tech.lgbt-purple?style=for-the-badge&logo=mastodon)](https://tech.lgbt/@Kimitzuni)
-![Discord: Kimitzuni#4390](https://img.shields.io/badge/Kimitzuni%234390-darkblue?style=for-the-badge&logo=discord)
+[![Mastodon: @kimitzuni@tech.lgbt](https://img.shields.io/badge/@kimitzuni@tech.lgbt-%2380080042?style=for-the-badge&logo=mastodon)](https://tech.lgbt/@Kimitzuni)
+![Discord: Kimitzuni#4390](https://img.shields.io/badge/Kimitzuni%234390-%237289da42?style=for-the-badge&logo=discord)
 [![Twitter: @Kimitzuni](https://img.shields.io/badge/@Kimitzuni-darkblue?style=for-the-badge&logo=twitter)](https://twitter.com/Kimitzuni)
 [![YouTube: @Kimitzuni](https://img.shields.io/badge/@Kimitzuni-darkred?style=for-the-badge&logo=youtube)](https://youtube.com/@Kimitzuni)
 
