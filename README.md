@@ -28,3 +28,4 @@ Hi, I'm Rebecca (or Kimitzuni). I'm a self-taught software developer from Wales,
 
 [![win16-transflag](https://github-readme-stats.vercel.app/api/pin/?username=kimitzuni&repo=win16-transflag&theme=gruvbox)](https://github.com/Kimitzuni/win16-transflag)
 [![kernel-roulette](https://github-readme-stats.vercel.app/api/pin/?username=kimitzuni&repo=kernel-roulette&theme=gruvbox)](https://github.com/Kimitzuni/kernel-roulette)
+[![googledeathguesser](https://github-readme-stats.vercel.app/api/pin/?username=kimitzuni&repo=googledeathguesser&theme=gruvbox)](https://github.com/Kimitzuni/googledeathguesser)
